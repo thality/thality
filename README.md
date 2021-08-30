@@ -1,5 +1,9 @@
 ### Oiiii! Eu sou a Thalita Rosa 
 
+
+- 🔭 Trabalhando atualmente com Engenharia de Dados 
+- 😄 Pronomes: Ela / Dela
+
 <div>
   <a href="https://github.com/thality">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thality&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
